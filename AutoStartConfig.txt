@@ -1,0 +1,2 @@
+# All users can start automatically
+default_policy = allow
